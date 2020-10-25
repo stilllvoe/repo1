@@ -1,4 +1,4 @@
 public class A
 {
-syso
+syso。out
 }
